@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pathology Flashcards</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Robbins Basic Pathology Flashcards</h1>
+        <div class="stats">
+          <span id="current-card">Card: 0/0</span>
+          <span id="correct-count">Correct: 0</span>
+          <span id="incorrect-count">Incorrect: 0</span>
+        </div>
+      </header>
+
+      <main>
+        <div class="flashcard" id="flashcard">
+          <div class="card-inner">
+            <div class="card-front">
+              <p id="question">Click "Start" to begin studying!</p>
+            </div>
+            <div class="card-back">
+              <p id="answer"></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="controls">
+          <button id="start-btn">Start</button>
+          <button id="flip-btn" disabled>Flip Card</button>
+          <div class="rating" id="rating-buttons" style="display: none">
+            <button id="incorrect-btn" class="rating-btn">Incorrect</button>
+            <button id="correct-btn" class="rating-btn">Correct</button>
+          </div>
+          <button id="next-btn" disabled>Next Card</button>
+        </div>
+      </main>
+
+      <footer>
+        <p>Simple Flashcard App for Robbins Basic Pathology 10th Edition</p>
+      </footer>
+    </div>
+
+    <script src="flashcards-data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
