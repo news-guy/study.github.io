@@ -6769,4 +6769,1280 @@ const flashcards = [
     answer:
       "Because they have distinct mechanisms and roles in disease processes, which can influence therapeutic strategies.",
   },
+  {
+    question: "question",
+    answer:
+      "What cellular process is activated by stresses such as nutrient deprivation and involves the formation of membrane-bound vesicles?",
+  },
+  {
+    question: "answer",
+    answer: "Autophagy",
+  },
+  {
+    question:
+      "What is the primary consequence of hypoxia and ischemia on cellular energy production?",
+    answer:
+      "Failure of energy-dependent metabolic pathways, leading to cell death by necrosis.",
+  },
+  {
+    question: "How is ATP primarily produced in cells under normal conditions?",
+    answer:
+      "Through oxidative phosphorylation during reduction of oxygen in the mitochondrial electron transport system.",
+  },
+  {
+    question: "What percentage of ATP do cells of a healthy human burn daily?",
+    answer: "50 to 75 kg of ATP.",
+  },
+  {
+    question:
+      "Why is oxygen deprivation a common cause of cell injury in clinical medicine?",
+    answer:
+      "Because it impairs ATP production, which is essential for many cellular functions.",
+  },
+  {
+    question:
+      "What cellular response is mediated by hypoxia-inducible factor 1 (HIF-1)?",
+    answer:
+      "HIF-1 stimulates the synthesis of proteins that help the cell survive low oxygen conditions, including VEGF and metabolic adaptations like increased glycolysis.",
+  },
+  {
+    question:
+      "Name two proteins induced by HIF-1 that aid in cellular adaptation to hypoxia.",
+    answer:
+      "Vascular endothelial growth factor (VEGF) and proteins that increase glucose uptake and glycolysis.",
+  },
+  {
+    question: "What is the role of VEGF in hypoxia?",
+    answer:
+      "VEGF stimulates the growth of new blood vessels to increase oxygen supply.",
+  },
+  {
+    question: "How do cells adapt their metabolism during hypoxia?",
+    answer:
+      "By increasing glycolysis and dampening mitochondrial oxidative phosphorylation.",
+  },
+  {
+    question:
+      "Which tissues are more likely to survive hypoxia due to their glycogen stores?",
+    answer: "Liver and striated muscle.",
+  },
+  {
+    question: "What is the Warburg effect?",
+    answer:
+      "The reliance of rapidly proliferating normal and cancer cells on aerobic glycolysis for energy production, despite its lower ATP yield per glucose molecule.",
+  },
+  {
+    question: "Why do cancer cells favor aerobic glycolysis?",
+    answer:
+      "Because glycolysis provides metabolites necessary for cell growth and division, serving as precursors for proteins, lipids, and nucleic acids.",
+  },
+  {
+    question:
+      "What happens to ATP levels during persistent or severe hypoxia or ischemia?",
+    answer: "ATP generation fails, leading to depletion of ATP in cells.",
+  },
+  {
+    question:
+      "What is a consequence of ATP depletion on the plasma membrane sodium pumps?",
+    answer:
+      "Reduced activity causes intracellular sodium accumulation and potassium efflux, leading to cell swelling.",
+  },
+  {
+    question:
+      "How does anaerobic glycolysis affect intracellular pH during hypoxia?",
+    answer: "It causes lactic acid accumulation, decreasing intracellular pH.",
+  },
+  {
+    question:
+      "What cellular structures are disrupted by prolonged ATP depletion?",
+    answer: "The protein synthetic apparatus and other structural components.",
+  },
+  {
+    question:
+      "What are the two main types of cell death discussed in relation to injury mechanisms?",
+    answer: "Necrosis and apoptosis.",
+  },
+  {
+    question:
+      "Can multiple mechanisms of cell injury be active simultaneously?",
+    answer:
+      "Yes, a single injurious agent can activate multiple pathways leading to cell injury.",
+  },
+  {
+    question:
+      "What is the significance of reactive oxygen species (ROS) in cell injury?",
+    answer:
+      "ROS can cause damage to lipids, proteins, and nucleic acids, contributing to cell injury.",
+  },
+  {
+    question: "What is the relationship between hypoxia and oxidative stress?",
+    answer:
+      "Hypoxia can lead to increased production of ROS, causing oxidative damage.",
+  },
+  {
+    question:
+      "What are the two main outcomes of cell injury discussed in the text?",
+    answer: "Necrosis and apoptosis.",
+  },
+  {
+    question: "What is the effect of hypoxia on membrane transport functions?",
+    answer:
+      "Loss of ATP impairs membrane transport, leading to ionic imbalances and cell swelling.",
+  },
+  {
+    question:
+      "Why is it difficult to prevent cell injury by targeting a single biochemical pathway?",
+    answer:
+      "Because the same injurious agent can trigger multiple and overlapping pathways.",
+  },
+  {
+    question:
+      "What role do mutations, cell stress, and infections play in cell injury?",
+    answer:
+      "They are among various triggers that can initiate biochemical pathways leading to cell injury.",
+  },
+  {
+    question:
+      "What is the significance of the electron transport system in ATP production?",
+    answer:
+      "It is the primary site of oxidative phosphorylation, generating most cellular ATP.",
+  },
+  {
+    question: "How does cell swelling occur during hypoxia?",
+    answer:
+      "Due to decreased activity of ATP-dependent sodium pumps, causing sodium and water to accumulate intracellularly.",
+  },
+  {
+    question:
+      "What is the impact of decreased enzyme activity caused by lactic acid accumulation?",
+    answer: "It impairs many cellular functions, worsening cell injury.",
+  },
+  {
+    question:
+      "What is the primary cause of necrosis in cells subjected to hypoxia?",
+    answer:
+      "Depletion of ATP leading to failure of energy-dependent processes and structural damage.",
+  },
+  {
+    question: "What is the significance of the diagram in Fig. 2.15?",
+    answer:
+      "It illustrates the biochemical mechanisms and sites of damage in cell injury, showing overlaps between necrosis and apoptosis.",
+  },
+  {
+    question:
+      "What are some triggers that can activate multiple cell injury mechanisms?",
+    answer:
+      "Hypoxia, oxidative stress, radiation, mutations, infections, and immunologic disorders.",
+  },
+  {
+    question:
+      "What is the primary consequence of damage to DNA and proteins in cells?",
+    answer: "It can trigger apoptosis, a programmed form of cell death.",
+  },
+  {
+    question: "What is the role of cellular adaptation mechanisms in hypoxia?",
+    answer:
+      "They help cells survive by increasing glycolysis, promoting angiogenesis, and reducing mitochondrial activity.",
+  },
+  {
+    question:
+      "What is the significance of the balance between necrosis and apoptosis in cell injury?",
+    answer:
+      "It influences the outcome of cell death and tissue response to injury.",
+  },
+  {
+    question:
+      "How does the accumulation of misfolded proteins relate to cell injury?",
+    answer:
+      "It can cause ER stress and contribute to cell damage and apoptosis.",
+  },
+  {
+    question:
+      "What is the importance of understanding the mechanisms of cell injury?",
+    answer:
+      "It aids in developing strategies to prevent or treat cell damage in diseases.",
+  },
+  {
+    question:
+      "What is one mechanism by which reperfusion of ischemic tissues can cause additional cell injury?",
+    answer:
+      "Increased generation of reactive oxygen species (ROS) during reoxygenation can cause new damage to cells.",
+  },
+  {
+    question:
+      "How do injured cells contribute to ROS generation during reperfusion?",
+    answer:
+      "Injured cells with damaged mitochondria cannot fully reduce oxygen, leading to increased ROS production.",
+  },
+  {
+    question:
+      "What role do infiltrating leukocytes play in ischemia-reperfusion injury?",
+    answer:
+      "Leukocytes generate ROS that contribute to tissue damage during reperfusion.",
+  },
+  {
+    question: "How does inflammation exacerbate ischemia-reperfusion injury?",
+    answer:
+      "Reperfusion increases leukocyte and plasma protein influx, and activated leukocytes produce products that cause additional tissue injury.",
+  },
+  {
+    question:
+      "What is the complement system's role in ischemia-reperfusion injury?",
+    answer:
+      "Complement activation, through binding to injured tissues or deposited antibodies, generates products that worsen cell injury and inflammation.",
+  },
+  {
+    question: "Define oxidative stress in the context of cell injury.",
+    answer:
+      "Oxidative stress refers to cellular abnormalities induced by reactive oxygen species (ROS), which damage nucleic acids, proteins, and lipids.",
+  },
+  {
+    question: "What are free radicals?",
+    answer:
+      "Chemical species with an unpaired electron in their outer orbit, making them highly reactive and capable of damaging cellular components.",
+  },
+  {
+    question: "How do free radicals propagate cellular damage?",
+    answer:
+      "They react with molecules like nucleic acids, proteins, and lipids, converting them into other free radicals and amplifying damage.",
+  },
+  {
+    question: "What are the two major pathways for ROS production in cells?",
+    answer:
+      "ROS are produced during mitochondrial respiration and energy generation, and possibly increased during hypoxia.",
+  },
+  {
+    question:
+      "What is the role of superoxide dismutase (SOD) in ROS metabolism?",
+    answer: "SOD converts superoxide (O2•−) into hydrogen peroxide (H2O2).",
+  },
+  {
+    question:
+      "Why is hydrogen peroxide (H2O2) significant in cellular oxidative stress?",
+    answer:
+      "H2O2 is more stable than superoxide and can cross membranes, contributing to oxidative damage, especially in the presence of metals like Fe2+.",
+  },
+  {
+    question: "What is the effect of H2O2 in the presence of iron (Fe2+)?",
+    answer:
+      "It is converted into highly reactive hydroxyl radicals via the Fenton reaction, causing cellular damage.",
+  },
+  {
+    question: "How does hypoxia influence ROS accumulation?",
+    answer:
+      "Hypoxia may increase ROS accumulation, predisposing cells to damage upon reoxygenation, contributing to reperfusion injury.",
+  },
+  {
+    question:
+      "What are the main types of cell death caused by ROS-mediated injury?",
+    answer: "Necrosis, apoptosis, or a mixed pattern called necroptosis.",
+  },
+  {
+    question:
+      "What is the sequence of cellular changes during prolonged hypoxia in the heart?",
+    answer:
+      "The heart ceases to contract within 60 seconds, followed by worsening ATP depletion and cellular deterioration.",
+  },
+  {
+    question: "What is ischemia-reperfusion injury?",
+    answer:
+      "A paradoxical increase in cell injury following the restoration of blood flow to ischemic tissues.",
+  },
+  {
+    question: "Why is ischemia-reperfusion injury clinically significant?",
+    answer:
+      "It can contribute significantly to tissue damage after restoring blood flow in conditions like myocardial infarction or stroke.",
+  },
+  {
+    question:
+      "What are the morphological changes in cells during hypoxia and ischemia?",
+    answer:
+      "Endoplasmic reticulum swelling, cellular swelling, loss of microvilli, bleb formation, and detachment of ribosomes.",
+  },
+  {
+    question: "What is the effect of ischemia on ATP levels?",
+    answer:
+      "Ischemia reduces ATP production, impairing cellular functions and leading to cell injury.",
+  },
+  {
+    question: "How does ischemia affect protein synthesis?",
+    answer:
+      "It causes detachment of ribosomes from the rough ER and dissociation of polysomes, reducing protein synthesis.",
+  },
+  {
+    question: "What is the impact of ischemia on the Na+ pump?",
+    answer:
+      "Ischemia impairs the Na+ pump, leading to cellular swelling and ionic imbalance.",
+  },
+  {
+    question:
+      "What cellular event marks the late stage of cell injury caused by diverse mechanisms?",
+    answer: "Membrane damage.",
+  },
+  {
+    question: "What is necrosis?",
+    answer:
+      "A form of cell death characterized by cell swelling, membrane rupture, and inflammation.",
+  },
+  {
+    question: "How does apoptosis differ from necrosis?",
+    answer:
+      "Apoptosis is a programmed, energy-dependent cell death involving cell shrinkage and DNA fragmentation without inflammation.",
+  },
+  {
+    question: "What is necroptosis?",
+    answer:
+      "A form of programmed necrosis that exhibits features of both necrosis and apoptosis.",
+  },
+  {
+    question: "What is the primary cause of cell death in hypoxia?",
+    answer:
+      "Necrosis, although apoptosis via the mitochondrial pathway also contributes.",
+  },
+  {
+    question:
+      "What are the consequences of mitochondrial membrane damage in cell injury?",
+    answer:
+      "Irreversible damage leading to necrosis and impaired energy production.",
+  },
+  {
+    question: "How does ischemia affect the microvilli of epithelial cells?",
+    answer: "It causes loss of microvilli, impairing absorptive functions.",
+  },
+  {
+    question: "What is the significance of cellular swelling during injury?",
+    answer:
+      "It indicates failure of ionic pumps and water influx, a hallmark of cell injury.",
+  },
+  {
+    question: "What are blebs in the context of cell injury?",
+    answer: "Membrane protrusions formed during cell swelling and injury.",
+  },
+  {
+    question: "What is the role of lactic acid in ischemic injury?",
+    answer:
+      "Accumulation of lactic acid from anaerobic glycolysis causes acidosis, damaging cells.",
+  },
+  {
+    question: "What is the effect of ischemia on glycogen stores?",
+    answer:
+      "Glycogen is depleted as cells rely on anaerobic glycolysis for energy.",
+  },
+  {
+    question: "How does ischemia affect the pH of cells?",
+    answer: "It causes acidification due to lactic acid accumulation.",
+  },
+  {
+    question: "What is the significance of calcium influx during cell injury?",
+    answer:
+      "Increased intracellular Ca2+ activates destructive enzymes, contributing to cell damage.",
+  },
+  {
+    question:
+      "What are the main consequences of oxidative phosphorylation impairment?",
+    answer:
+      "Decreased ATP production and increased ROS generation, leading to cell injury.",
+  },
+  {
+    question:
+      "What is the primary event that leads to cell necrosis during ischemia?",
+    answer: "Irreversible mitochondrial and lysosomal membrane damage.",
+  },
+  {
+    question: "How does reperfusion exacerbate cell injury after ischemia?",
+    answer:
+      "By increasing ROS production and inflammatory responses upon blood flow restoration.",
+  },
+  {
+    question:
+      "What is the role of the endoplasmic reticulum (ER) during cell injury?",
+    answer:
+      "ER swelling and detachment of ribosomes impair protein synthesis and cell function.",
+  },
+  {
+    question:
+      "What are reactive oxygen species (ROS) and how are they generated in cells?",
+    answer:
+      "ROS are free radicals produced during cellular processes such as mitochondrial oxidative phosphorylation, phagocyte oxidase activity in leukocytes, and in response to injurious stimuli like radiation, toxins, and reperfusion.",
+  },
+  {
+    question: "What is the primary role of ROS in immune defense?",
+    answer:
+      "ROS are generated by phagocytic leukocytes (neutrophils and macrophages) to destroy ingested microbes during inflammation and host defense.",
+  },
+  {
+    question: "How are free radicals removed from cells?",
+    answer:
+      "Free radicals are removed by spontaneous decay and specialized enzymatic systems such as superoxide dismutase (SOD), catalase, and glutathione peroxidase.",
+  },
+  {
+    question: "What is superoxide dismutase (SOD) and its function?",
+    answer:
+      "SOD is an enzyme that catalyzes the conversion of superoxide (O2•−) into hydrogen peroxide (H2O2) and oxygen (O2), reducing oxidative damage.",
+  },
+  {
+    question: "What are the main pathologic effects of excess ROS in cells?",
+    answer:
+      "Excess ROS can damage lipids (peroxidation), proteins (modifications), and DNA (mutations and strand breaks), leading to cell injury.",
+  },
+  {
+    question:
+      "Describe the process of ROS production during the respiratory burst in phagocytes.",
+    answer:
+      "During the respiratory burst, a phagosome membrane enzyme generates superoxide, which is converted to H2O2; H2O2 is then converted to hypochlorite by myeloperoxidase, aiding in microbial killing.",
+  },
+  {
+    question: "What is the significance of nitric oxide (NO) in cell injury?",
+    answer:
+      "NO is a reactive free radical produced by leukocytes that can react with superoxide to form peroxynitrite, a highly reactive compound involved in cell injury.",
+  },
+  {
+    question: "How does ionizing radiation increase free radical production?",
+    answer:
+      "Ionizing radiation hydrolyzes water into hydroxyl (•OH) and hydrogen (H•) free radicals, increasing oxidative stress.",
+  },
+  {
+    question:
+      "What is the role of glutathione peroxidase in protecting cells from oxidative damage?",
+    answer:
+      "Glutathione peroxidase catalyzes the reduction of H2O2 to water using GSH, thereby detoxifying hydrogen peroxide and preventing oxidative damage.",
+  },
+  {
+    question: "What is the function of catalase in cells?",
+    answer:
+      "Catalase decomposes hydrogen peroxide into water and oxygen, preventing accumulation of H2O2 and protecting cells from oxidative injury.",
+  },
+  {
+    question: "What is the Fenton reaction and its relevance to ROS?",
+    answer:
+      "The Fenton reaction involves the conversion of hydrogen peroxide into highly reactive hydroxyl radicals (•OH), which cause cellular damage.",
+  },
+  {
+    question:
+      "Which enzymes are involved in the enzymatic removal of hydrogen peroxide?",
+    answer:
+      "Catalase and glutathione peroxidase are the main enzymes that decompose hydrogen peroxide.",
+  },
+  {
+    question: "What are the main mechanisms of ROS-induced cell injury?",
+    answer:
+      "ROS cause damage through lipid peroxidation, protein modifications, DNA damage, membrane breakdown, and mutations.",
+  },
+  {
+    question: "What are the primary free radicals involved in cell injury?",
+    answer:
+      "Superoxide (O2•−), hydrogen peroxide (H2O2), hydroxyl radical (•OH), and peroxynitrite (ONOO•).",
+  },
+  {
+    question: "How is superoxide produced in cells?",
+    answer:
+      "Superoxide is produced during incomplete reduction of O2 in mitochondrial oxidative phosphorylation and by phagocyte oxidase in leukocytes.",
+  },
+  {
+    question: "What is the role of myeloperoxidase in leukocytes?",
+    answer:
+      "Myeloperoxidase converts hydrogen peroxide into hypochlorite (bleach), which helps destroy microbes.",
+  },
+  {
+    question: "What is the significance of the intracellular GSH/GSSG ratio?",
+    answer:
+      "The GSH/GSSG ratio reflects the cell’s ability to detoxify free radicals; a high ratio indicates effective antioxidant capacity.",
+  },
+  {
+    question:
+      "What are the sources of increased free radical production during injury?",
+    answer:
+      "Radiant energy (UV, X-rays), metabolism of exogenous chemicals, inflammation, and reperfusion of ischemic tissues.",
+  },
+  {
+    question: "What is the role of peroxynitrite in cell injury?",
+    answer:
+      "Peroxynitrite forms from the reaction of NO with superoxide and causes damage to lipids, proteins, and DNA.",
+  },
+  {
+    question: "What are free radical scavengers?",
+    answer:
+      "Nonenzymatic and enzymatic systems, such as SOD, catalase, and glutathione peroxidase, that inactivate free radicals.",
+  },
+  {
+    question: "What is the main function of glutathione peroxidase 1?",
+    answer:
+      "It catalyzes the breakdown of H2O2 into water, protecting cells from oxidative damage.",
+  },
+  {
+    question: "Where is catalase primarily located within the cell?",
+    answer: "In peroxisomes.",
+  },
+  {
+    question: "What is the effect of lipid peroxidation caused by ROS?",
+    answer:
+      "Lipid peroxidation damages cell membranes, leading to increased permeability and cell injury.",
+  },
+  {
+    question: "How does ROS-induced DNA damage contribute to cell injury?",
+    answer:
+      "ROS can cause mutations and strand breaks in DNA, potentially leading to cell dysfunction or death.",
+  },
+  {
+    question: "What is the relationship between ROS and inflammation?",
+    answer:
+      "ROS are produced during inflammation by leukocytes to destroy pathogens, but excess ROS can also cause tissue damage.",
+  },
+  {
+    question:
+      "What is the significance of the respiratory burst in leukocytes?",
+    answer:
+      "It is a process that generates ROS to kill ingested microbes during immune responses.",
+  },
+  {
+    question: "What are the effects of hydroxyl radicals (•OH) on cells?",
+    answer:
+      "Hydroxyl radicals cause severe damage to lipids, proteins, and DNA due to their high reactivity.",
+  },
+  {
+    question:
+      "How does the enzymatic metabolism of chemicals contribute to free radical formation?",
+    answer:
+      "Certain chemicals are metabolized by enzymes into reactive intermediates that generate free radicals.",
+  },
+  {
+    question: "What is the role of ROS in reperfusion injury?",
+    answer:
+      "Reperfusion restores blood flow but leads to increased ROS production, causing oxidative damage to tissues.",
+  },
+  {
+    question: "What are the primary effects of ROS on cell membranes?",
+    answer:
+      "ROS induce lipid peroxidation, compromising membrane integrity and function.",
+  },
+  {
+    question: "What is the main function of the enzyme glutathione peroxidase?",
+    answer:
+      "To reduce hydrogen peroxide to water, using GSH as a substrate, thus protecting cells from oxidative stress.",
+  },
+  {
+    question:
+      "What is the significance of the balance between ROS production and removal?",
+    answer:
+      "Maintaining this balance is crucial to prevent oxidative stress and cell injury.",
+  },
+  {
+    question: "What is the unfolded protein response (UPR) triggered by?",
+    answer:
+      "The presence of misfolded proteins in the endoplasmic reticulum (ER).",
+  },
+  {
+    question: "Which ER membrane sensor detects misfolded proteins?",
+    answer: "IRE-1 (Inositol-Requiring Enzyme 1).",
+  },
+  {
+    question: "What activates IRE-1 during ER stress?",
+    answer: "Oligomerization and phosphorylation of IRE-1.",
+  },
+  {
+    question:
+      "What are the main protective responses of the unfolded protein response?",
+    answer:
+      "Increased synthesis of chaperones, increased protein degradation, and reduced protein synthesis.",
+  },
+  {
+    question:
+      "What happens when misfolded proteins accumulate beyond the cell's corrective capacity?",
+    answer:
+      "Activation of the mitochondrial pathway of apoptosis leading to cell death, known as the terminal unfolded protein response.",
+  },
+  {
+    question: "What is the role of chaperones in ER stress?",
+    answer:
+      "They assist in proper protein folding and help reduce the load of misfolded proteins.",
+  },
+  {
+    question: "What is the consequence of excessive activation of ER sensors?",
+    answer: "Activation of apoptosis pathways and cell death.",
+  },
+  {
+    question:
+      "Name a disease caused by a mutant protein that is degraded, leading to deficiency.",
+    answer: "Cystic fibrosis caused by loss of CFTR.",
+  },
+  {
+    question: "What is the pathogenesis of cystic fibrosis?",
+    answer:
+      "Loss of CFTR leads to defects in chloride transport and cell death.",
+  },
+  {
+    question:
+      "Name a disease caused by misfolded proteins resulting in ER stress-induced cell loss.",
+    answer: "Retinitis pigmentosa caused by abnormal folding of rhodopsin.",
+  },
+  {
+    question:
+      "What protein is involved in retinitis pigmentosa related to ER stress?",
+    answer: "Rhodopsin.",
+  },
+  {
+    question: "Which disease involves abnormal folding of prions?",
+    answer: "Creutzfeldt-Jacob disease.",
+  },
+  {
+    question: "What is the pathogenic mechanism in Creutzfeldt-Jacob disease?",
+    answer: "Abnormal folding of PrPsc causes neuronal cell death.",
+  },
+  {
+    question:
+      "Which peptide's abnormal folding is associated with Alzheimer disease?",
+    answer: "Aβ peptide.",
+  },
+  {
+    question:
+      "What is the result of Aβ peptide misfolding in Alzheimer disease?",
+    answer: "Aggregation within neurons and apoptosis.",
+  },
+  {
+    question:
+      "Name a disease caused by misfolded proteins that results in both ER stress-induced cell loss and functional deficiency.",
+    answer: "Alpha-1-antitrypsin deficiency.",
+  },
+  {
+    question: "How does alpha-1-antitrypsin deficiency cause disease?",
+    answer:
+      "Storage of nonfunctional protein in hepatocytes causes apoptosis; absence of enzymatic activity in lungs causes destruction of elastic tissue, leading to emphysema.",
+  },
+  {
+    question: "What is a common consequence of misfolded proteins in cells?",
+    answer:
+      "Loss of protein activity and rapid degradation, leading to functional deficiency.",
+  },
+  {
+    question:
+      "How does protein misfolding contribute to neurodegenerative diseases?",
+    answer:
+      "Misfolded proteins can accumulate and cause cell death, as seen in Alzheimer, Huntington, and Parkinson diseases.",
+  },
+  {
+    question: "What is amyloidosis?",
+    answer:
+      "A condition where improperly folded proteins accumulate extracellularly.",
+  },
+  {
+    question: "What is the significance of ER stress in disease?",
+    answer:
+      "It can lead to cell injury and death through the unfolded protein response and apoptosis.",
+  },
+  {
+    question: "What is the role of BH3 proteins in ER stress?",
+    answer:
+      "Activation of BH3 proteins promotes apoptosis during severe ER stress.",
+  },
+  {
+    question:
+      "What cellular process is triggered by excessive activation of ER sensors?",
+    answer: "Apoptosis via mitochondrial pathways.",
+  },
+  {
+    question:
+      "What is the primary function of the ER in protein quality control?",
+    answer: "Folding of proteins and ensuring proper conformation.",
+  },
+  {
+    question:
+      "Which cellular organelle is involved in the mitochondrial pathway of apoptosis activated during ER stress?",
+    answer: "The mitochondria.",
+  },
+  {
+    question:
+      "What is the effect of misfolded CFTR protein in cystic fibrosis?",
+    answer: "It leads to defective chloride transport and cell death.",
+  },
+  {
+    question:
+      "What is the impact of LDL receptor loss in familial hypercholesterolemia?",
+    answer: "It causes hypercholesterolemia due to impaired LDL clearance.",
+  },
+  {
+    question: "Which enzyme's deficiency causes Tay-Sachs disease?",
+    answer: "Hexosaminidase β subunit.",
+  },
+  {
+    question:
+      "How does abnormal rhodopsin folding lead to retinitis pigmentosa?",
+    answer:
+      "It causes photoreceptor loss and cell death, resulting in blindness.",
+  },
+  {
+    question: "What is the role of prions in Creutzfeldt-Jacob disease?",
+    answer: "Abnormal folding of prions causes neuronal cell death.",
+  },
+  {
+    question:
+      "What is the main pathogenic mechanism in Alzheimer disease related to protein folding?",
+    answer: "Abnormal folding and aggregation of Aβ peptide within neurons.",
+  },
+  {
+    question: "How does alpha-1-antitrypsin deficiency affect the lungs?",
+    answer: "It causes destruction of elastic tissue, leading to emphysema.",
+  },
+  {
+    question:
+      "What is the general consequence of misfolded proteins in disease?",
+    answer: "Loss of function, accumulation, and induction of cell death.",
+  },
+  {
+    question:
+      "What is the significance of the terminal unfolded protein response?",
+    answer:
+      "It leads to apoptosis and cell death when misfolded proteins cannot be corrected.",
+  },
+  {
+    question:
+      "What cellular event can trigger apoptotic cell death when DNA damage is severe?",
+    answer:
+      "Severe DNA damage can trigger apoptosis by activating p53, which stimulates proapoptotic proteins like Bax and Bak.",
+  },
+  {
+    question: "How does p53 respond to DNA damage in cells?",
+    answer:
+      "p53 first arrests the cell cycle at G1 to allow DNA repair; if damage is irreparable, it triggers apoptosis.",
+  },
+  {
+    question: "What role do BH3-only sensor proteins play in apoptosis?",
+    answer:
+      "BH3-only proteins are stimulated by p53 to activate Bax and Bak, leading to mitochondrial membrane permeabilization and apoptosis.",
+  },
+  {
+    question:
+      "What happens to cells with mutated or absent p53 when DNA damage occurs?",
+    answer:
+      "Cells with mutated or absent p53 fail to undergo apoptosis despite DNA damage, increasing the risk of mutations and neoplastic transformation.",
+  },
+  {
+    question:
+      "What is a common cause of tissue injury related to immune responses?",
+    answer:
+      "Inflammation caused by pathogens, necrotic cells, or dysregulated immune responses can damage tissues.",
+  },
+  {
+    question:
+      "Which immune cells secrete products that can damage host tissues during inflammation?",
+    answer: "Neutrophils, macrophages, lymphocytes, and other leukocytes.",
+  },
+  {
+    question:
+      "What are the two main cellular abnormalities characterizing cell injury regardless of cause?",
+    answer: "Mitochondrial dysfunction and defects in membrane permeability.",
+  },
+  {
+    question: "Why are mitochondria critical in cell injury and death?",
+    answer:
+      "Because they produce ATP and are sensitive to injurious stimuli, with damage leading to necrosis or apoptosis.",
+  },
+  {
+    question:
+      "What is the consequence of failure of oxidative phosphorylation in mitochondria?",
+    answer: "It leads to ATP depletion, resulting in necrosis.",
+  },
+  {
+    question:
+      "How does abnormal oxidative phosphorylation contribute to cell injury?",
+    answer:
+      "It leads to the formation of reactive oxygen species (ROS), which cause cellular damage.",
+  },
+  {
+    question:
+      "What is the mitochondrial permeability transition pore, and what is its significance?",
+    answer:
+      "It is a high-conductance channel in the mitochondrial membrane; its opening causes loss of membrane potential and promotes apoptosis.",
+  },
+  {
+    question: "What role does cytochrome c play in apoptosis?",
+    answer:
+      "When released into the cytoplasm from mitochondria, it activates apoptotic pathways.",
+  },
+  {
+    question:
+      "What is a key feature of mitochondrial damage during cell injury?",
+    answer:
+      "Formation of a permeability transition pore leading to loss of membrane potential.",
+  },
+  {
+    question: "What are the main sites of membrane damage in injured cells?",
+    answer: "Mitochondrial membrane, plasma membrane, and lysosomal membranes.",
+  },
+  {
+    question: "What are the effects of plasma membrane damage in cell injury?",
+    answer:
+      "Loss of osmotic balance, influx of fluids and ions, leakage of cellular contents, and depletion of ATP precursors.",
+  },
+  {
+    question: "How does lysosomal membrane damage contribute to cell death?",
+    answer:
+      "Leakage of lysosomal enzymes into the cytoplasm causes enzymatic digestion of cell components, leading to necrosis.",
+  },
+  {
+    question:
+      "What is the impact of mitochondrial membrane damage on ATP production?",
+    answer: "It decreases ATP production, contributing to cell necrosis.",
+  },
+  {
+    question: "What triggers the release of cytochrome c from mitochondria?",
+    answer:
+      "Damage to mitochondrial membranes and formation of the permeability transition pore.",
+  },
+  {
+    question:
+      "What is the significance of reactive oxygen species (ROS) in cell injury?",
+    answer:
+      "ROS cause oxidative damage to cellular components, contributing to necrosis and apoptosis.",
+  },
+  {
+    question: "What is necrosis, and how is it related to membrane damage?",
+    answer:
+      "Necrosis is cell death characterized by membrane damage, loss of cellular contents, and inflammation.",
+  },
+  {
+    question:
+      "What distinguishes apoptosis from necrosis in terms of membrane integrity?",
+    answer:
+      "In apoptosis, the plasma membrane remains intact, whereas in necrosis, membrane damage leads to cell lysis.",
+  },
+  {
+    question: "What is the role of lysosomal enzymes in cell injury?",
+    answer:
+      "Leakage of lysosomal enzymes into the cytoplasm causes digestion of cell components, promoting necrosis.",
+  },
+  {
+    question: "How do hypoxia and radiation affect mitochondria?",
+    answer:
+      "They cause mitochondrial damage, leading to decreased ATP production and increased ROS formation.",
+  },
+  {
+    question: "What is the primary energy currency produced by mitochondria?",
+    answer: "Adenosine triphosphate (ATP).",
+  },
+  {
+    question:
+      "What is the consequence of increased membrane permeability in cell injury?",
+    answer:
+      "It leads to loss of cellular homeostasis, leakage of contents, and cell death.",
+  },
+  {
+    question:
+      "Which cellular organelles are most affected by increased membrane permeability during injury?",
+    answer: "Mitochondria, plasma membrane, and lysosomes.",
+  },
+  {
+    question:
+      "What is the process by which damaged DNA may lead to cancer if apoptosis is defective?",
+    answer:
+      "Accumulation of mutations or DNA rearrangements that promote neoplastic transformation.",
+  },
+  {
+    question: "What triggers apoptosis via mitochondrial pathways?",
+    answer:
+      "Release of proapoptotic proteins like cytochrome c into the cytoplasm.",
+  },
+  {
+    question:
+      "What is the role of reactive oxygen species (ROS) in cell injury?",
+    answer:
+      "ROS cause oxidative damage to lipids, proteins, and DNA, contributing to cell death.",
+  },
+  {
+    question:
+      "What is the significance of the mitochondrial permeability transition pore opening?",
+    answer:
+      "It leads to loss of mitochondrial membrane potential, swelling, and initiation of apoptosis.",
+  },
+  {
+    question: "What are the common causes of mitochondrial injury?",
+    answer: "Hypoxia, chemical toxins, and radiation.",
+  },
+  {
+    question: "How does cell injury from toxins typically affect mitochondria?",
+    answer:
+      "It damages mitochondrial membranes, impairs ATP production, and increases ROS.",
+  },
+  {
+    question:
+      "What is the main difference between necrosis and apoptosis regarding membrane integrity?",
+    answer:
+      "Necrosis involves loss of membrane integrity and cell lysis; apoptosis maintains membrane integrity until late stages.",
+  },
+  {
+    question:
+      "Why is mitochondrial damage considered a central event in cell injury?",
+    answer:
+      "Because it disrupts energy production and can trigger apoptotic pathways.",
+  },
+  {
+    question:
+      "What cellular process is primarily responsible for cell death when ATP is depleted?",
+    answer: "Necrosis.",
+  },
+  {
+    question:
+      "What is the effect of lysosomal membrane damage on cell viability?",
+    answer:
+      "It causes release of enzymes that degrade cellular components, leading to necrosis.",
+  },
+  {
+    question: "What is the role of the Bcl-2 family proteins in apoptosis?",
+    answer:
+      "They regulate mitochondrial membrane permeability, with proapoptotic members like Bax and Bak promoting apoptosis.",
+  },
+  {
+    question: "What is a common feature of cell injury caused by radiation?",
+    answer: "Damage to mitochondria and increased production of ROS.",
+  },
+  {
+    question: "In what way does defective p53 contribute to carcinogenesis?",
+    answer:
+      "It prevents apoptosis of damaged cells, allowing accumulation of mutations and tumor development.",
+  },
+  {
+    question:
+      "What is the primary effect of increased mitochondrial membrane permeability on cell fate?",
+    answer:
+      "It promotes the release of proapoptotic factors like cytochrome c, leading to apoptosis.",
+  },
+  {
+    question: "question",
+    answer:
+      "What are the primary mechanisms by which different initiating events cause cell injury and death?",
+  },
+  {
+    question: "answer",
+    answer:
+      "Different initiating events cause cell injury and death through mechanisms such as ATP depletion, oxidative stress, protein misfolding, DNA damage, and inflammation.",
+  },
+  {
+    question:
+      "What are the most important cellular adaptations to stress in myocardial fibers?",
+    answer: "Fragmentation and loss of myofibrillar contractile elements.",
+  },
+  {
+    question:
+      "Why does hypertrophy progress to degenerative changes in myocardial fibers?",
+    answer:
+      "Finite limits on vascular supply, mitochondrial ATP production, or biosynthetic machinery lead to degenerative changes.",
+  },
+  {
+    question: "What is hypertrophy?",
+    answer:
+      "An increase in the size of an organ or tissue due to enlargement of its cells.",
+  },
+  {
+    question: "What is hyperplasia?",
+    answer:
+      "An increase in the number of cells in an organ due to increased proliferation.",
+  },
+  {
+    question: "Can hyperplasia occur concurrently with hypertrophy?",
+    answer:
+      "Yes, hyperplasia can occur alongside hypertrophy, often in response to the same stimuli.",
+  },
+  {
+    question: "What stimulates hyperplasia in tissues?",
+    answer: "Growth factors produced by various cell types.",
+  },
+  {
+    question: "What are the two types of physiologic hyperplasia?",
+    answer: "Hormonal hyperplasia and compensatory hyperplasia.",
+  },
+  {
+    question: "Give an example of hormonal hyperplasia.",
+    answer:
+      "Proliferation of the glandular epithelium of the female breast at puberty and during pregnancy.",
+  },
+  {
+    question: "What is compensatory hyperplasia?",
+    answer:
+      "Growth of residual tissue after partial removal or loss of an organ.",
+  },
+  {
+    question: "Provide an example of compensatory hyperplasia.",
+    answer: "Liver regrowth after partial resection.",
+  },
+  {
+    question: "How does myocardium adapt to increased workload?",
+    answer: "By undergoing hypertrophy to generate higher contractile force.",
+  },
+  {
+    question:
+      "What happens to myocardium subjected to reduced blood flow (ischemia)?",
+    answer: "Myocytes may undergo injury due to lack of oxygen and nutrients.",
+  },
+  {
+    question: "What signals drive cardiac hypertrophy?",
+    answer:
+      "Mechanical triggers like stretch and soluble mediators such as growth factors and adrenergic hormones.",
+  },
+  {
+    question:
+      "What is the cellular response to hypertrophic stimuli in the heart?",
+    answer:
+      "Induction of gene expression leading to increased synthesis of cellular proteins, including structural and growth factors.",
+  },
+  {
+    question:
+      "What change occurs in contractile proteins during muscle hypertrophy?",
+    answer:
+      "Switch from adult to fetal or neonatal forms, e.g., α-myosin heavy chain to fetal β form.",
+  },
+  {
+    question:
+      "What is a potential consequence of hypertrophy if stress is not relieved?",
+    answer:
+      "Progression to cell injury and degenerative changes, such as ventricular dilation and heart failure.",
+  },
+  {
+    question:
+      "What is the relationship among normal, adapted, reversibly injured, and dead myocardial cells?",
+    answer:
+      "Normal cells function properly; adapted cells (hypertrophy) respond to stress; reversibly injured cells show cellular swelling or fatty change; dead cells undergo necrosis.",
+  },
+  {
+    question: "What is the gross appearance of hypertrophied myocardium?",
+    answer: "Thicker ventricular wall, greater than 2 cm (normal 1–1.5 cm).",
+  },
+  {
+    question: "What characterizes reversibly injured myocardium?",
+    answer:
+      "Functional effects without gross or light microscopic changes, such as cellular swelling and fatty change.",
+  },
+  {
+    question: "What does transmural area of necrosis in myocardium indicate?",
+    answer: "An acute myocardial infarction.",
+  },
+  {
+    question:
+      "What is the significance of triphenyltetrazolium chloride staining in myocardium?",
+    answer:
+      "It colors viable myocardium magenta; areas that do not stain indicate cell death.",
+  },
+  {
+    question: "What is ischemic coagulative necrosis?",
+    answer:
+      "Irreversible injury resulting from ischemia, characterized by coagulation of cellular proteins.",
+  },
+  {
+    question: "What is the primary cause of reversible myocardial injury?",
+    answer: "Ischemia leading to cellular stress but not cell death.",
+  },
+  {
+    question:
+      "What are the key features of cellular hypertrophy in response to stress?",
+    answer:
+      "Increased cell size, increased synthesis of contractile proteins, and possible switch to fetal contractile protein isoforms.",
+  },
+  {
+    question:
+      "What limits the ability of hypertrophied myocardium to compensate for increased workload?",
+    answer:
+      "Finite limits of vascular supply, mitochondrial ATP production, and biosynthetic capacity.",
+  },
+  {
+    question:
+      "What is the ultimate outcome of unrelieved hypertrophy and cellular degeneration?",
+    answer: "Ventricular dilation and cardiac failure.",
+  },
+  {
+    question: "What is the role of growth factors in hyperplasia?",
+    answer:
+      "They stimulate cellular proliferation in tissues capable of cell division.",
+  },
+  {
+    question: "How does mechanical stretch influence cardiac hypertrophy?",
+    answer:
+      "It acts as a mechanical trigger to stimulate signal transduction pathways that promote hypertrophy.",
+  },
+  {
+    question:
+      "What is the difference between physiologic and pathologic hyperplasia?",
+    answer:
+      "Physiologic hyperplasia occurs in normal processes like puberty or pregnancy, while pathologic hyperplasia occurs in response to abnormal stimuli.",
+  },
+  {
+    question:
+      "What is the significance of fetal myosin heavy chain expression during hypertrophy?",
+    answer:
+      "It indicates a switch to a slower, more energy-efficient contractile protein form.",
+  },
+  {
+    question:
+      "What cellular changes are associated with reversible myocardial injury?",
+    answer: "Cellular swelling and fatty change without cell death.",
+  },
+  {
+    question:
+      "What is the main difference between reversible injury and necrosis in myocardial cells?",
+    answer:
+      "Reversible injury involves functional impairment without cell death; necrosis involves irreversible cell death and tissue destruction.",
+  },
+  {
+    question:
+      "What triggers the switch from adult to fetal contractile proteins in hypertrophied myocardium?",
+    answer:
+      "Signals from mechanical stress and growth factors that activate gene expression pathways.",
+  },
+  {
+    question: "What is atrophy in tissue or organs?",
+    answer:
+      "Atrophy is a reduction in size of tissue or organs, involving a decrease in cell size, with cells remaining alive but functioning less.",
+  },
+  {
+    question: "Are atrophic cells dead?",
+    answer:
+      "No, atrophic cells are not dead; they have diminished function but remain viable.",
+  },
+  {
+    question: "What are common causes of cellular atrophy?",
+    answer:
+      "Causes include decreased workload, loss of innervation, diminished blood supply, inadequate nutrition, loss of endocrine stimulation, and aging.",
+  },
+  {
+    question: "How does aging contribute to atrophy?",
+    answer:
+      "Aging causes senile atrophy, which involves a natural decline in cell size and function over time.",
+  },
+  {
+    question: "What cellular changes underlie atrophy?",
+    answer:
+      "Atrophy results from decreased protein synthesis and increased protein degradation.",
+  },
+  {
+    question:
+      "Which pathway primarily mediates protein degradation in atrophy?",
+    answer: "The ubiquitin-proteasome pathway.",
+  },
+  {
+    question:
+      "How do nutrient deficiency and disuse activate protein degradation?",
+    answer:
+      "They activate ubiquitin ligases, which attach ubiquitin to proteins, targeting them for degradation in proteasomes.",
+  },
+  {
+    question: "What is autophagy and its role in atrophy?",
+    answer:
+      "Autophagy is the process where a cell digests its own organelles to survive during starvation, often increased in atrophic cells.",
+  },
+  {
+    question: "Define metaplasia.",
+    answer:
+      "Metaplasia is the replacement of one adult cell type with another better suited to withstand adverse conditions.",
+  },
+  {
+    question: "How does metaplasia arise?",
+    answer:
+      "It arises by reprogramming of stem cells, often within 12 hours of stimulus.",
+  },
+  {
+    question: "What is the typical stimulus for hyperplasia?",
+    answer: "Excessive hormonal or growth factor stimulation.",
+  },
+  {
+    question: "Give an example of physiologic hyperplasia.",
+    answer:
+      "Uterine epithelial proliferation after menstruation regulated by pituitary hormones and ovarian estrogen.",
+  },
+  {
+    question: "What causes endometrial hyperplasia?",
+    answer: "Increased estrogenic stimulation due to hormonal imbalance.",
+  },
+  {
+    question: "What is benign prostatic hyperplasia?",
+    answer:
+      "A common hyperplasia caused by hormonal stimulation from androgens.",
+  },
+  {
+    question: "How do viral infections induce hyperplasia?",
+    answer:
+      "Viruses like papillomaviruses encode growth factors or influence host cell genes, leading to hyperplastic growths such as warts.",
+  },
+  {
+    question: "How can hyperplasia be distinguished from cancer?",
+    answer:
+      "Hyperplasia remains controlled and regresses when stimuli cease, whereas cancer involves permanent dysregulation of growth control.",
+  },
+  {
+    question: "Why is hyperplasia considered a risk factor for cancer?",
+    answer:
+      "Because it creates a proliferative environment that may accumulate genetic mutations, increasing cancer risk.",
+  },
+  {
+    question: "What is atrophic change in the brain?",
+    answer:
+      "It involves shrinkage of brain tissue, often due to aging and reduced blood supply, seen as narrowed gyri and widened sulci.",
+  },
+  {
+    question: "What are the visual signs of brain atrophy?",
+    answer: "Narrowed gyri and widened sulci.",
+  },
+  {
+    question: "Is atrophy always pathological?",
+    answer:
+      "No, it can be a normal adaptive response to decreased functional demand or aging.",
+  },
+  {
+    question:
+      "What cellular process increases during autophagy in atrophic cells?",
+    answer:
+      "The formation of autophagic vacuoles that digest cellular components.",
+  },
+  {
+    question: "What is the difference between atrophy and hypoplasia?",
+    answer:
+      "Atrophy is a reduction in size of existing cells, while hypoplasia is underdevelopment or incomplete development of tissue or organ.",
+  },
+  {
+    question: "Can atrophy be reversible?",
+    answer:
+      "Yes, if the underlying cause is removed or corrected, atrophic tissue can sometimes recover.",
+  },
+  {
+    question: "What role do growth inhibitors play after liver regeneration?",
+    answer:
+      "They turn off cell proliferation once the liver has restored its normal size.",
+  },
+  {
+    question: "What is the significance of the ubiquitin-proteasome pathway?",
+    answer:
+      "It is the main pathway for degrading cellular proteins during atrophy and catabolic states.",
+  },
+  {
+    question: "What is the role of stem cells in metaplasia?",
+    answer:
+      "Stem cells are reprogrammed to produce a different cell type better suited to withstand environmental stress.",
+  },
+  {
+    question: "What is the key difference between hyperplasia and hypertrophy?",
+    answer:
+      "Hyperplasia involves an increase in cell number, while hypertrophy involves an increase in cell size.",
+  },
+  {
+    question:
+      "What is the typical response of tissue to excessive hormonal stimulation?",
+    answer: "It often results in hyperplasia.",
+  },
+  {
+    question: "What is the relationship between hyperplasia and cancer?",
+    answer:
+      "Hyperplasia can be a precursor to cancer if growth regulation fails and becomes uncontrolled.",
+  },
+  {
+    question:
+      "What is the main cellular change during atrophy caused by disuse?",
+    answer: "Decreased protein synthesis and increased protein degradation.",
+  },
+  {
+    question: "What is the effect of aging on brain tissue?",
+    answer:
+      "Aging causes brain atrophy characterized by loss of brain substance and structural changes.",
+  },
+  {
+    question:
+      "What is the significance of the term 'new equilibrium' in atrophy?",
+    answer:
+      "It refers to the balance between reduced cellular size and survival under diminished resources.",
+  },
 ];
